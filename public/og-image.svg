@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#000000"/>
+
+  <defs>
+    <style>
+      .title {
+        font-family: Arial, sans-serif;
+        font-weight: 900;
+        font-size: 180px;
+        letter-spacing: 20px;
+      }
+      .subtitle {
+        font-family: Arial, sans-serif;
+        font-weight: 400;
+        font-size: 36px;
+        letter-spacing: 2px;
+      }
+    </style>
+  </defs>
+
+  <!-- Background glitch effect layers -->
+  <text x="600" y="330" class="title" fill="#ff00ff" text-anchor="middle" opacity="0.6">MAO</text>
+  <text x="610" y="320" class="title" fill="#00ffff" text-anchor="middle" opacity="0.6">MAO</text>
+
+  <!-- Main title -->
+  <text x="600" y="325" class="title" fill="#ffffff" text-anchor="middle">MAO</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="430" class="subtitle" fill="#999999" text-anchor="middle">Hide &amp; Reveal Text Editor</text>
+</svg>

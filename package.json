@@ -1,0 +1,27 @@
+{
+  "name": "mao",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^10.2.1",
+    "firebase": "^12.8.0",
+    "nuxt": "^4.2.2",
+    "openai": "^6.16.0",
+    "vue": "^3.5.26",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.12.1",
+    "eslint": "^9.39.2",
+    "typescript-eslint": "^8.53.1"
+  }
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#000000"/>
+  <defs>
+    <style>
+      .letter {
+        font-family: Arial, sans-serif;
+        font-weight: 900;
+        font-size: 100px;
+        letter-spacing: 8px;
+      }
+    </style>
+  </defs>
+
+  <!-- Background shadow layers for glitch effect -->
+  <text x="128" y="160" class="letter" fill="#ff00ff" text-anchor="middle" opacity="0.8">MAO</text>
+  <text x="132" y="156" class="letter" fill="#00ffff" text-anchor="middle" opacity="0.8">MAO</text>
+
+  <!-- Main text -->
+  <text x="128" y="158" class="letter" fill="#ffffff" text-anchor="middle">MAO</text>
+</svg>
