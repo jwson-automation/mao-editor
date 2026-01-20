@@ -2,7 +2,7 @@
 
 MAO is a minimalist text editor with selective text visibility features. Hide parts of your text to focus on what matters, or reveal everything when you need the full context.
 
-🔗 **Live Demo**: [https://mao-sepia.vercel.app](https://mao-sepia.vercel.app)
+🔗 **Web**: [https://mao-study-editor.site/](https://mao-study-editor.site/)
 
 ## Features
 
