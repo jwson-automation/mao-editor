@@ -1,4 +1,4 @@
-import { collection, doc, getDoc, setDoc } from 'firebase/firestore'
+import { doc, getDoc, setDoc } from 'firebase/firestore'
 import type { User, LoginCredentials, SignupCredentials } from '~/types/auth'
 
 export function useAuth() {

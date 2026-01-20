@@ -102,7 +102,7 @@ const paginatedFiles = computed(() => {
   return props.files.slice(start, end)
 })
 
-function goToPage(page: number) {
+function _goToPage(page: number) {
   currentPage.value = page
 }
 

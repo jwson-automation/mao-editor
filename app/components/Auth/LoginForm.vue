@@ -10,10 +10,10 @@
           v-model="username"
           type="text"
           :placeholder="t.usernamePlaceholder"
+          required
           maxlength="20"
           pattern="[a-zA-Z0-9]+"
           @keypress="preventSpace"
-          required
         >
       </div>
 
