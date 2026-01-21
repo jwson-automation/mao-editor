@@ -4,6 +4,8 @@ MAO is a minimalist text editor with selective text visibility features. Hide pa
 
 🔗 **Web**: [https://mao-study-editor.site/](https://mao-study-editor.site/)
 
+[![Demo Video](https://img.youtube.com/vi/ooc6gmsw0lo/0.jpg)](https://youtu.be/ooc6gmsw0lo)
+
 ## Features
 
 - **📝 Text Hiding**: Select any text and hide it with `{{ }}` markers
